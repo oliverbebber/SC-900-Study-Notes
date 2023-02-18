@@ -23,7 +23,6 @@ holistic and end-to-end solution.
 ----
 # Exam Objectives
 ### Describe the concepts of security, compliance, and identity (10–15%)
-### Describe the capabilities of Microsoft Azure Active Directory (Azure 
-AD), part of Microsoft Entra (25–30%)
+### Describe the capabilities of Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra (25–30%)
 ### Describe the capabilities of Microsoft Security solutions (25–30%)
 ### Describe the capabilities of Microsoft compliance solutions (25–30%)
