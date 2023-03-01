@@ -104,5 +104,21 @@ IMPORTANT: Access rights are NOT changed until the review is completed.
 When the review is complete, it can be set to automatically apply changes OR require manual changes to remove access from a group membership or application assignment, except for a dynamic group or groups that originates on-premises. In these cases, the changes must be applied directly to the group.
 
 ## Describe the capabilities of Azure AD Privileged Identity Management (PIM)
+This is a service that enables orgs to manage, control, and monitor access to resources within the org.
+- Azure AD
+- Azure
+- Other Microsoft online services like M365 & Intune
+
+PIM mitigates the risks of excessive, unnecessary, or misused access permissions and requires justification to understand why users need permissions & enforces MFA to activate any role.
+
+- Just in time, providing privileged access only when needed.
+- Time-bound, assigning start and end dates that indicate when a user can access resources.
+- Approval-based, requiring specific approval to activate privileges.
+- Visible, sending notifications when privileged roles are enabled.
+- Auditable, allowing a full access history to be downloaded for audits.
+
+PIM can reduce the chance of a malicious actor getting access by minimizing the number of users who have access to secure information and resources. Time-limiting authorized users helps reduce the risk of an authorized user inadvertently affecting sensitive resources.
+
+PIM can also provide insight about what users are doing with their admin privileges.
 
 ## Describe Azure AD Identity Protection
