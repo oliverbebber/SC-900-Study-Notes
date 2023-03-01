@@ -35,6 +35,9 @@ SOAR: Security Orchestration Automation & Response
 - Response may be fully automated of single-click. 
 
 ## Describe how Microsoft Sentinel provides integrated threat management
+Sentinel delivers both SIEM & SOAR together. 
+
+- Uses AI, ML, and threat intel. 
 
 # Describe threat protection with Microsoft 365 Defender
 ## Describe Microsoft 365 Defender services
