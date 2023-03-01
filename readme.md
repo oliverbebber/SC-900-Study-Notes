@@ -23,6 +23,98 @@ holistic and end-to-end solution.
 ----
 # Exam Objectives
 ### Describe the concepts of security, compliance, and identity (10–15%)
+
+Describe security and compliance concepts
+- Describe the shared responsibility model
+- Describe defense in depth
+- Describe the Zero-Trust model
+- Describe encryption and hashing
+- Describe compliance concepts
+
+Define identity concepts
+- Define identity as the primary security perimeter
+- Define authentication
+- Define authorization
+- Describe identity providers
+- Describe Active Directory
+- Describe the concept of Federation
+
 ### Describe the capabilities of Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra (25–30%)
+Describe the basic identity services and identity types of Azure AD
+- Describe Azure AD
+- Describe Azure AD identities
+- Describe hybrid identity
+- Describe the different external identity types
+
+Describe the authentication capabilities of Azure AD
+- Describe the authentication methods available in Azure AD
+- Describe Multi-factor Authentication
+- Describe self-service password reset
+- Describe password protection and management capabilities available in Azure AD
+
+Describe access management capabilities of Azure AD
+- Describe conditional access
+- Describe the benefits of Azure AD roles.
+- Describe the benefits of Azure AD role-based access control
+
+Describe the identity protection and governance capabilities of Azure AD
+- Describe identity governance in Azure AD
+- Describe entitlement management and access reviews
+- Describe the capabilities of Azure AD Privileged Identity Management (PIM)
+- Describe Azure AD Identity Protection
+
 ### Describe the capabilities of Microsoft Security solutions (25–30%)
+Describe basic security capabilities in Azure
+- Describe Azure DDoS protection
+- Describe Azure Firewall
+- Describe Web Application Firewall
+- Describe Network Segmentation with Azure Virtual Networks
+- Describe Azure Network Security groups
+- Describe Azure Bastion and JIT Access
+- Describe ways Azure encrypts data
+
+Describe security management capabilities of Azure
+- Describe Cloud security posture management (CSPM)
+- Describe Microsoft Defender for Cloud
+- Describe the enhanced security features of Microsoft Defender for Cloud
+- Describe security baselines for Azure
+
+Describe security capabilities of Microsoft Sentinel
+- Define the concepts of SIEM and SOAR
+- Describe how Microsoft Sentinel provides integrated threat management
+
+Describe threat protection with Microsoft 365 Defender
+- Describe Microsoft 365 Defender services
+- Describe Microsoft Defender for Office 365
+- Describe Microsoft Defender for Endpoint
+- Describe Microsoft Defender for Cloud Apps
+- Describe Microsoft Defender for Identity
+- Describe the Microsoft 365 Defender portal
+
 ### Describe the capabilities of Microsoft compliance solutions (25–30%)
+Describe Microsoft’s Service Trust Portal and privacy principles
+- Describe the offerings of the Service Trust portal
+- Describe Microsoft’s privacy principles
+
+Describe the compliance management capabilities of Microsoft Purview
+- Describe the Microsoft Purview compliance portal
+- Describe compliance manager
+- Describe the use and benefits of compliance score
+
+Describe information protection and data lifecycle management capabilities of Microsoft Purview
+- Describe data classification capabilities
+- Describe the benefits of content explorer and activity explorer
+- Describe sensitivity labels
+- Describe Data Loss Prevention (DLP)
+- Describe Records Management
+- Describe Retention Polices and Retention Labels
+
+Describe insider risk capabilities in Microsoft Purview
+- Describe Insider Risk Management
+- Describe communication compliance
+- Describe information barriers
+
+Describe resource governance capabilities in Azure
+- Describe Azure Policy
+- Describe Azure Blueprints
+- Describe the Microsoft Purview unified data governance solution
