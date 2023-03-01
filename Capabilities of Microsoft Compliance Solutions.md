@@ -41,6 +41,9 @@ Protects the following workloads:
 ## Describe the enhanced security features of Microsoft Defender for Cloud
 
 ## Describe security baselines for Azure
+Security baselines are standardized documents for Azure product offerings, describing the available security capabilities and the optimal security configurations to help you strengthen security through improved tooling, tracking, and security features. 
+
+Security baselines for Azure focus on cloud-centric control areas in Azure environments. These controls are consistent with well-known industry standards such as: Center for Internet Security (CIS) or National Institute for Standards in Technology (NIST).
 
 # Describe security capabilities of Microsoft Sentinel
 ## Define the concepts of SIEM and SOAR
