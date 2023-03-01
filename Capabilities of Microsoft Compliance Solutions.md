@@ -40,6 +40,11 @@ Sentinel delivers both SIEM & SOAR together.
 - Uses AI, ML, and threat intel. 
 
 # Describe threat protection with Microsoft 365 Defender
+XDR: Extended Detect & Response
+
+- Uses AI, ML, and threat intel. 
+- Refers to the scope & context of investigation & hunting. 
+
 ## Describe Microsoft 365 Defender services
 
 ## Describe Microsoft Defender for Office 365
