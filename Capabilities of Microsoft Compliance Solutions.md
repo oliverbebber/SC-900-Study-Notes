@@ -1,4 +1,4 @@
-no# Describe basic security capabilities in Azure
+# Describe basic security capabilities in Azure
 ## Describe Azure DDoS protection
 
 ## Describe Azure Firewall
