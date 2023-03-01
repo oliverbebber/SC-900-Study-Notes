@@ -101,3 +101,15 @@ The Microsoft 365 Security Center is the new home for monitoring & managing secu
 - Security health of the organization can be seen here. 
 - New experience brings Defender for Endpoint, Defender for Office 365, and MCAS data into the Microsoft 365 security center. 
 - https://security.microsoft.com
+
+Secure Score
+
+Reports & Dashboards
+
+Incidents
+- Incidents are a collection of correlated alerts created when a suspicious event is found. 
+- Alerts are generated from different devices, users, and mailbox entities, and can come from many different domains. 
+- Provides a comprehensive view & context of an attack. 
+
+Incident Management 
+- You can manage incidents on devices, user accounts, and mailboxes from the incident queue. 
