@@ -56,7 +56,20 @@ There are two types of managed identities:
 
 ## Describe the benefits of Azure AD role-based access control
 
+
+
 # Describe the identity protection and governance capabilities of Azure AD
+Azure AD identity governance gives orgs the ability to:
+- Govern the identity lifecycle
+- Govern access lifecycle
+- Secure privileged access for administration
+
+It's intended to help orgs answer the following questions:
+- Which users should have access to which resources?
+- What are those users doing with that access?
+- Are there effective organizational controls for managing access?
+- Can auditor verify that the controls are working?
+
 ## Describe identity governance in Azure AD
 
 ## Describe entitlement management and access reviews
