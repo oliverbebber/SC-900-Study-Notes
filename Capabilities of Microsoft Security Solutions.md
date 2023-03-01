@@ -6,9 +6,23 @@
 # Describe the compliance management capabilities of Microsoft Purview
 ## Describe the Microsoft Purview compliance portal
 
+- https://compliance.microsoft.com
+
+
 ## Describe compliance manager
 
+- Measures your progress in completing actions that help reduce risks around data protection and regulatory standards. 
+- Includes hundreds of baselines for regulatory standards called "assessment templates". 
+- GDPR, HIPAA, FINRA, NIST 800-53, and more. 
+- https://compliance.microsoft.com/compliancemanager
+
 ## Describe the use and benefits of compliance score
+
+- Provides a rollup of compliance based on the assessment items within the template. 
+- Score shows org vs Microsoft responsibilities   
+- Improvement actions categorized as technical & operational items. 
+
+Compliance Score looks high out of thr box. 
 
 # Describe information protection and data lifecycle management capabilities of Microsoft Purview
 ## Describe data classification capabilities
