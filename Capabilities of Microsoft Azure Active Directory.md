@@ -73,6 +73,12 @@ It's intended to help orgs answer the following questions:
 ## Describe identity governance in Azure AD
 
 ## Describe entitlement management and access reviews
+Entitlement management is an identity governance feature that enables orgs to manage the identity & access lifecycle at scale. It can automate the following:
+
+- Access request workflows
+- Access assignments
+- Reviews
+- Expiration
 
 ## Describe the capabilities of Azure AD Privileged Identity Management (PIM)
 
