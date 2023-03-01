@@ -99,6 +99,10 @@ Access reviews can be create in Azure AD access reviews, or with Azure AD Privil
 
 When an access review is created, it can be set up to allow each user to review their own access OR to have one, or more, users review all users access. Guests can be asked to review their own access as well, or have their access reviewed by one or more users.
 
+IMPORTANT: Access rights are NOT changed until the review is completed. 
+
+When the review is complete, it can be set to automatically apply changes OR require manual changes to remove access from a group membership or application assignment, except for a dynamic group or groups that originates on-premises. In these cases, the changes must be applied directly to the group.
+
 ## Describe the capabilities of Azure AD Privileged Identity Management (PIM)
 
 ## Describe Azure AD Identity Protection
