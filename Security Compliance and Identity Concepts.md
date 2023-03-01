@@ -21,6 +21,34 @@ The following responsibilities are **always** the customer's responsibility:
 
 
 ## Describe defense in depth
+A layered (defense in depth) approach that doesn't rely on one method to completely protect your environment.
+
+This approach includes implementing security controls at various layers of the technology stack, such as
+
+Physical security:
+- Video surveillance
+- Access controls
+- Alarms
+
+Network security:
+- Firewalls
+- IDS/IPS
+
+Host security:
+- Antivirus
+- IDS/IPS
+- Other endpoint protection technologies
+
+Application security:
+- Secure coding practices
+- Performing code reviews
+- Using application security testing tools
+
+Data security:
+- Encryption
+- Access controls
+- DLP technologies
+
 
 ## Describe the Zero-Trust model
 Zero Trust is a security strategy.
