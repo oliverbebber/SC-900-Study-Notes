@@ -24,6 +24,15 @@
 
 # Describe security capabilities of Microsoft Sentinel
 ## Define the concepts of SIEM and SOAR
+SIEM: Security Information Event Management
+ 
+- System that collects data from many other sources within the network. 
+- Provides real-time monitoring, analysis, correlation & notification of potential attacks
+
+SOAR: Security Orchestration Automation & Response
+
+- Centralized alert and response automation with threat-specific playbooks. 
+- Response may be fully automated of single-click. 
 
 ## Describe how Microsoft Sentinel provides integrated threat management
 
