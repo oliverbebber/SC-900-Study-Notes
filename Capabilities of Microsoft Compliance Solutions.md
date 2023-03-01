@@ -1,4 +1,4 @@
-# Describe basic security capabilities in Azure
+no# Describe basic security capabilities in Azure
 ## Describe Azure DDoS protection
 
 ## Describe Azure Firewall
@@ -58,6 +58,8 @@ SOAR: Security Orchestration Automation & Response
 Sentinel delivers both SIEM & SOAR together. 
 
 - Uses AI, ML, and threat intel. 
+- Provides visibility and context across silos, including apps, identities, endpoints, and data. 
+- Provides better context into the scope of thr security incident. 
 
 # Describe threat protection with Microsoft 365 Defender
 XDR: Extended Detect & Response
