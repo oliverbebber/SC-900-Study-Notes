@@ -15,6 +15,13 @@
 
 # Describe security management capabilities of Azure
 ## Describe Cloud security posture management (CSPM)
+CSPM: Cloud Security Posture Management
+
+- Free tier includes CSPM features such as secure score, detection of security misconfigurations in your Azure workloads, and asset inventory. 
+
+CWPP: Cloud Workload Protection Platform
+
+- Brings a range of security features for advanced, intelligent, protection of your Azure & hybrid resources & workloads. 
 
 ## Describe Microsoft Defender for Cloud
 
