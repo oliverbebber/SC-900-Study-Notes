@@ -22,7 +22,7 @@
 - Score shows org vs Microsoft responsibilities   
 - Improvement actions categorized as technical & operational items. 
 
-Compliance Score looks high out of thr box. 
+Compliance Score looks high out of the box. 
 
 # Describe information protection and data lifecycle management capabilities of Microsoft Purview
 ## Describe data classification capabilities
