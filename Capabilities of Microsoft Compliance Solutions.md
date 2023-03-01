@@ -96,3 +96,8 @@ XDR: Extended Detect & Response
 - Requires AD DS. 
 
 ## Describe the Microsoft 365 Defender portal
+The Microsoft 365 Security Center is the new home for monitoring & managing security across your Microsoft identities, data, devices, & apps. 
+
+- Security health of the organization can be seen here. 
+- New experience brings Defender for Endpoint, Defender for Office 365, and MCAS data into the Microsoft 365 security center. 
+- https://security.microsoft.com
