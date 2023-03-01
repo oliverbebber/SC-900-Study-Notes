@@ -23,6 +23,19 @@ CWPP: Cloud Workload Protection Platform
 
 - Brings a range of security features for advanced, intelligent, protection of your Azure & hybrid resources & workloads. 
 
+Protects the following workloads:
+
+- Servers
+- App Service
+- Storage
+- SQL
+- Kubernetes
+- ACR
+- Key Vault
+- Resource Manager
+- DNS
+- Open-source Azure DB
+
 ## Describe Microsoft Defender for Cloud
 
 ## Describe the enhanced security features of Microsoft Defender for Cloud
