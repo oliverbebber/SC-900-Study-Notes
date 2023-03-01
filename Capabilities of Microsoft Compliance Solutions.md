@@ -67,14 +67,32 @@ XDR: Extended Detect & Response
 - Uses AI, ML, and threat intel. 
 - Refers to the scope & context of investigation & hunting. 
 
-## Describe Microsoft 365 Defender services
-
+## Describe Microsoft 365 Defender services 
 ## Describe Microsoft Defender for Office 365
+
+- Formerly called Office 365 Advanced Threat Protection. 
+- Safeguards the org against malicious threats in email, URLs, and collaboration tools. 
+- Includes Safe Links and Safe Attachments for detonation of potentially malicious email content. 
+- Anti-phishing protection & attack simulation. 
 
 ## Describe Microsoft Defender for Endpoint
 
+- Formerly called Microsoft Defender Advanced Threat Protection (MDATP). 
+- An enterprise endpoint security platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.
+- Includes EDR, attack surface reduction, automated investigations, and advanced hunting.   
+- Sensor built into Windows 10
+
 ## Describe Microsoft Defender for Cloud Apps
 
+- A Cloud Access Security Broker (CASB) designed to detect and stop shadow IT. 
+- Provides visibility over data travel and analytics to identify threats over MS & 3rd party cloud services. 
+- Natively integrates with multiple other Microsoft services & solutions.
+
 ## Describe Microsoft Defender for Identity
+
+- Formerly called Azure Advanced Threat Protection (ATP). 
+- Cloud-based security solution that leverages your on-prem AD signals. 
+- Identifies, detects, and investigates advanced threats, compromised identities, and malicious insider actions. 
+- Requires AD DS. 
 
 ## Describe the Microsoft 365 Defender portal
