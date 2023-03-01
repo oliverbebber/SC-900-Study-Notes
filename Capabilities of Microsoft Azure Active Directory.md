@@ -80,6 +80,25 @@ Entitlement management is an identity governance feature that enables orgs to ma
 - Reviews
 - Expiration
 
+Azure AD Access Reviews enable orgs to manage:
+
+- Group memberships
+- Access to enterprise applications
+- Role assignment
+
+Regular access reviews ensure only the right people have access to resources they need. Excessive access rights are a security risk, but when people transfer departments, move between teams or take on additional responsibilities, access rights can become difficult to manage.
+
+Access reviews are helpful when
+
+- You have too many users in privileged roles, like global admin
+- When automation isn't possible, like when HR data isn't in Azure AD
+- You want to control business critical data access
+- Governance policies require periodic review of access permissions
+
+Access reviews can be create in Azure AD access reviews, or with Azure AD Privileged Access Management (PIM). They can be used to review & manage access for both users and guests.
+
+When an access review is created, it can be set up to allow each user to review their own access OR to have one, or more, users review all users access. Guests can be asked to review their own access as well, or have their access reviewed by one or more users.
+
 ## Describe the capabilities of Azure AD Privileged Identity Management (PIM)
 
 ## Describe Azure AD Identity Protection
