@@ -167,12 +167,19 @@ Important: To enable items to be marked as records, an admin must set up retenti
 - Items inherit the retention settings from their container
 - It an item is moved, the retention setting **does not** travel to the new location
 
+
 # Describe insider risk capabilities in Microsoft Purview
 ## Describe Insider Risk Management
+- Insider risk management helps minimize internal risks by enabling you to detect, investigate, and act on malicious & inadvertent activities within the org.
+
 
 ## Describe communication compliance
+Communication compliance helps minimize communication risks by helping you detect, capture, and act on inappropriate messages in your org. Support services are Microsoft Teams, Exchange Online, Yammer, and third-party communications within an org.
+
 
 ## Describe information barriers
+Information barriers allow you to restrict communication & collaboration between two internal groups to avoid a conflict of interest from occurring in the org. Supports services are Microsoft Teams, OneDrive for Business, SharePoint Online, and more.
+
 
 # Describe resource governance capabilities in Azure
 ## Describe Azure Policy
