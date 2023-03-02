@@ -10,6 +10,13 @@
 ## Describe Azure Network Security groups
 
 ## Describe Azure Bastion and JIT Access
+### Azure Bastion
+Azure Bastion is deployed per virtual network, with support for virtual network peering.
+
+
+### JIT Access
+Just in Time Access
+
 
 ## Describe ways Azure encrypts data
 Azure Storage Service Encryption
