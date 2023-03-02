@@ -103,6 +103,29 @@ Action types (& action subcategory)
 - The activity explorter monitors what's being done with labeled content across the org
 
 ## Describe sensitivity labels
+### Sensitivity labels
+- Customizable
+- Clear text
+- Persistent
+
+Usage:
+- Encrypt email & documents
+- Mark the content
+- Apply the label automatically
+- Protect content in containers: sites & groups
+- Extend sensitivity labels to third-party apps & services
+- Classify content without using any protection settings
+
+### Label policies
+These policies enable admins to:
+- Choose the users & groups that can see labels
+- Apply a default label to all new emails & documents
+- Require justifications for label changes
+- Require users to apply a label (mandatory labeling)
+- Link users to custom help pages
+
+Once a sensitivity label is applied to an email or document, any configured protection settings for that label are enforced on the content.
+
 
 ## Describe Data Loss Prevention (DLP)
 
