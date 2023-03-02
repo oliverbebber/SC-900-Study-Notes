@@ -75,12 +75,22 @@ Purview assists with
 - Improvement actions
 
 ## Describe the use and benefits of compliance score
+Compliance score helps an org understand its current compliance posture, and helps prioritize actions based on their potential to reduce risk.
 
 - Provides a rollup of compliance based on the assessment items within the template. 
 - Score shows org vs Microsoft responsibilities   
 - Improvement actions categorized as technical & operational items. 
 
 Compliance Score looks high out of the box. 
+
+### Understanding your compliance score
+Actions
+- Your improved actions
+- Microsoft actions
+
+Action types (& action subcategory)
+- Mandatory - preventive, detective, or corrective
+- Discretionary - preventive, detective, or corrective
 
 # Describe information protection and data lifecycle management capabilities of Microsoft Purview
 ## Describe data classification capabilities
