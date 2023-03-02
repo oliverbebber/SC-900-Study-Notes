@@ -104,6 +104,23 @@ Microsoft Defender for Cloud continuously assesses an org's hybrid cloud environ
 - Incident Response
 
 
+### Security Baselines for Azure
+Security baselines are standardized documents for Azure products, describing the available security capabilities & the optimal security configs to help strengthen security through improved tooling, tracking, and security features. Service baselines are only available for Azure currently.
+
+Content in the security baseline is grouped by the control domains defined by the MCSB that are applicable to the specific service. A security baseline includes the following info for each applicable MCSB reccomendation:
+- Control ID
+- Feature
+- Feature Description
+- Supported
+- Enabled by Default
+- Configuration Responsibility
+- Configuration Guidance
+- Microsoft Defender for Cloud monitoring note
+- Reference
+
+From Azure Key Vault security baseline: 
+![Alt text](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-management-capabilities-of-azure/media/security-baseline-expanded.png#lightbox)
+
 # Describe security capabilities of Microsoft Sentinel
 ## Define the concepts of SIEM and SOAR
 SIEM: Security Information Event Management
