@@ -19,6 +19,13 @@ Azure Bastion is a service you deploy that allows you to connect to VMs using yo
 
 Azure Bastion is deployed per virtual network, with support for virtual network peering.
 
+### Key features of Azure Bastion
+- RDP & SSH: Connect from the Azure Portal using a single-click.
+- Remote session over TLS & firewall traversal for RDP/SSH: Connecting will occur in the web browser and is secured by using TLS to establish encryption.
+- No Public IP required on the Azure VM: Azure Bastion opens the RDP/SSH connection to the VM using private IP on the VM.
+- No hassle managing NSGs: There is no need to apply any NSGs on an Azure Bastion subnet as the platform is a fully managed PaaS solution that is hardened internally to provide a secure connection.
+- Protection against port scanning: VMs are protected against external port scanning as they are not exposed to the internet.
+- Hardening in one place to protect against zero-day exploits: Azure Bastion sits at the perimeter of your virtual network so eah VM on the virtual network doesn't need to be hardened individually. Azure protects against zero-days by keeping Azure Bastion hardened and updated.
 
 ### JIT Access
 Just in Time Access
