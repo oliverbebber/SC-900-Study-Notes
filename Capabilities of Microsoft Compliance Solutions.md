@@ -44,6 +44,34 @@ DDoS IP Protection (in preview)
 - Contains the same core engineering features as DDoS Network protection, but differs in DDoS rapid response support, cost protection, & discounts on WAF.
 
 ## Describe Azure Firewall
+A managed, cloud-based network security service that protects the Azure virtual network (VNet) resources from attackers.
+- Can be deployed on **any** virtual network but best practice is to use it on a centralized virtual network.
+- All network traffic, virtual or on-prem, will be routed through it.
+- The advantage of this service is its ability to centrally exert control of network traffic for **all** VNets across different subscriptions.
+
+Azure Firewall is scalable, allowing you to accomodate changing network traffic flows. This means you don't need a budget for peak traffic. All network traffic will be subjected to the configured firewall rules when routed to the firewall as the subnet default gateway.
+
+### Key Features of Azure Firewall
+Built-in high availability & availability zones
+- Requires no configuration
+- Azure Firewall can be configured to span multiple availability zones for increased availability
+
+Network & application level filtering
+- Use IP address, port, and protocol to support fully qualified domain name filtering for outbound HTTP/HTTPS traffic & network filtering controls.
+
+Outbound SNAT & inbound DNAT to communicate with internet resources
+- Source Network Address Translation (SNAT) translates the private IP address of network resources to an Azure public IP address to identify & allow traffic originating from the VNet to internet destinations.
+- Destination Network Address Translation (DNAT) translates inbound internet traffic to the firewall public IP address, then filters to the private IP addresses of resources on the VNet.
+
+Multiple public IP addresses
+- These addresses can be associated with Azure Firewall.
+
+Threat intelligence
+- Threat intelligence-based filtering can be enabled for firewall alerts & to deny traffic from/to known malicious IP address and domains.
+
+Integration with Azure Monitor
+- Enables collecting, analyzing, and acting on telemetry from Azure Firewall logs when integrated with Azure Monitor.
+
 
 ## Describe Web Application Firewall
 
