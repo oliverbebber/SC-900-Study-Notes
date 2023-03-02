@@ -14,6 +14,23 @@ From this portal, you are able to access:
 - My Library
 
 ## Describe Microsoft’s privacy principles
+Control
+- Puts the customer in control of privacy with easy-to-use tools & clear choices.
+
+Transparency
+- Microsoft is transparent about data collection & use so everyone can make informed decisions.
+
+Security
+- Microsoft protects data that is entrusted to them by using strong security measures & encryption.
+
+Strong legal protections
+- Resoecting local privacy laws & fighting for legal protection of privacy as a **fundamental human right**.
+
+No content-based targeting
+- Not using email, chat, files, or other personal content to target advertising.
+
+Benefits to you
+- When Microsoft collects data, it's used to benefit the customer & to improve the customer experience.
 
 # Describe the compliance management capabilities of Microsoft Purview
 ## Describe the Microsoft Purview compliance portal
