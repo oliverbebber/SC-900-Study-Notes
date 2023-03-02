@@ -43,7 +43,15 @@ Workflow, automation, and collaboration capabilities to help search for subject 
 
 # Describe the compliance management capabilities of Microsoft Purview
 ## Describe the Microsoft Purview compliance portal
+- A view of how the org is meeting compliance requirements.
+- Solutions that can be used to help with compliance.
+- Information about active alerts.
+- And more.
 
+Navigation:
+- Access to alerts, reports, policies, compliance solutions, and more.
+- Add or remove options for a customized navigation pane.
+- Customized navigation control.
 - https://compliance.microsoft.com
 
 
