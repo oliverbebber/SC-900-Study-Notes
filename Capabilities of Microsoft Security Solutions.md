@@ -32,6 +32,15 @@ No content-based targeting
 Benefits to you
 - When Microsoft collects data, it's used to benefit the customer & to improve the customer experience.
 
+## Describe Microsoft Priva
+### Priva Privacy Risk Management
+- Overview dashboard provides automatic updates about your data with important trends.
+- Data profile provides a snapshot view of the personal data the org stores in M365 & where it lives.
+- Set up policies that identify privacy risks in your M365 environment & enable easy remediation.
+
+### Priva Subject Rights Requests
+Workflow, automation, and collaboration capabilities to help search for subject data, review findings, collect the appropriate files, and produce reports.
+
 # Describe the compliance management capabilities of Microsoft Purview
 ## Describe the Microsoft Purview compliance portal
 
