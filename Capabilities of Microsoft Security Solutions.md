@@ -140,6 +140,15 @@ DLP protects sensitive information & prevents its inadvertent disclosure
 - DLP capabilities extended to Microsoft Teams chat & channel messages
 
 ## Describe Records Management
+Records management helps an org look after their legal obligations & helps to demonstrate compliance with regulations.
+
+When content is labeled as a record, the following occurs:
+- Restrictions are put in place to block certain activities
+- Activities are logged
+- Proof of disposition is kept at the end of the retention period
+
+Important: To enable items to be marked as records, an admin must set up retention labels.
+
 
 ## Describe Retention Polices and Retention Labels
 - Retention settings work with SharePoint, OneDrive, Teams, Yammer, and Exchange.
