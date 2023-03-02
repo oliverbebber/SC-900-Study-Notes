@@ -74,6 +74,12 @@ Integration with Azure Monitor
 
 
 ## Describe Web Application Firewall
+Web Application Firewall (WAF) provides centralized protection of web apps from common exploits and vulnerabilities. 
+- Helps simplify security management.
+- Improves response time to security threats.
+- Allows patching known vulnerabilities in one place, instead of having to secure each individal web app.
+- Provides application admins better assurance of protection against threats & intrusions.
+
 
 ## Describe Network Segmentation with Azure Virtual Networks
 
