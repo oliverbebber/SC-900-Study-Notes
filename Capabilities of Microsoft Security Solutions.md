@@ -142,6 +142,21 @@ DLP protects sensitive information & prevents its inadvertent disclosure
 ## Describe Records Management
 
 ## Describe Retention Polices and Retention Labels
+- Retention settings work with SharePoint, OneDrive, Teams, Yammer, and Exchange.
+- They help orgs manage & govern information by ensuring content is only kept for a specific, required amount of time and then permanently deleted.
+
+### Retention Labels
+- Are applied at an item level
+- Emails & documents can only have a single retention label assigned to it at a time
+- Retention settings from retention labels travel with the content in the M365 tenant
+- Can be applied manually or automatically
+- Retention labels support disposition review of the content before it's permanently deleted
+
+### Retention Policies
+- Are applied at the site or mailbox level
+- Can be applied to multiple locations or specific locations, or specific users
+- Items inherit the retention settings from their container
+- It an item is moved, the retention setting **does not** travel to the new location
 
 # Describe insider risk capabilities in Microsoft Purview
 ## Describe Insider Risk Management
