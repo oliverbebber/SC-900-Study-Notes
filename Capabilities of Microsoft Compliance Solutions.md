@@ -16,7 +16,32 @@ Protocol attacks
 Resource (application) layer attacks
 - These attacks target web app packets with the purpose of distrupting transmission of data between hosts.
 
+### What is Azure DDoS Protection?
+This service is designed to protect apps and servers against network traffic that resembles a DDoS attack.
 
+![Alt text](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/2-network-flow.png)
+
+Above, Aure DDoS Protection identifies an attacker's attempt to overwhelm the network then blocks traffic from the attacker to ensure it doesn't reach Azure resources. Legitimate traffic from customers is allowed to access Azure resources without interrupting service.
+
+Azure DDoS Protection uses the scale and elasticity of Microsoft's global network to bring DDoS mitigation capacity to **EVERY** Azure region. Azure can scale an org's computing needs to meet demand during a DDoS attack. 
+
+There are **three** tiers of Azure DDoS Protection:
+Default DDoS infrastructure protection
+- Previously referred to as Basic.
+- Automatically enabled for every property in Azure at no additional cost.
+- Always-on traffic monitoring & real-time mitigation of common network-level attacks providing the same defenses that Microsoft's online services use.
+- Azure's global network is used to distribute & mitigate attack traffic across regions.
+
+DDoS Network Protection
+- Available as a SKU.
+- Combined with application design best practices to provide enhaned DDoS mitigation features intended to defend against DDoS attacks.
+- Automatically tuned to help protect specified Azure resources within a virtual network.
+- Simple to enable on new or existing virtual networks without requiring application or resource changes.
+- Advantages over the default; logging, alerting, and telemetry.
+
+DDoS IP Protection (in preview)
+- Pay-per-protected IP model.
+- Contains the same core engineering features as DDoS Network protection, but differs in DDoS rapid response support, cost protection, & discounts on WAF.
 
 ## Describe Azure Firewall
 
