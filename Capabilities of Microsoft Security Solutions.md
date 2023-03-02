@@ -1,5 +1,17 @@
 # Describe Microsoft’s Service Trust Portal and privacy principles
 ## Describe the offerings of the Service Trust portal
+The Service Trust Portal provides:
+- Information
+- Tools
+- Other resources about Microsoft security, privacy, and compliance practices
+
+From this portal, you are able to access:
+- The Service Trust Portal
+- Trust Documents
+- Industries & Regions
+- Trust Center
+- Resources
+- My Library
 
 ## Describe Microsoft’s privacy principles
 
