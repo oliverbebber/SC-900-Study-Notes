@@ -28,7 +28,20 @@ Azure Bastion is deployed per virtual network, with support for virtual network 
 - Hardening in one place to protect against zero-day exploits: Azure Bastion sits at the perimeter of your virtual network so eah VM on the virtual network doesn't need to be hardened individually. Azure protects against zero-days by keeping Azure Bastion hardened and updated.
 
 ### JIT Access
-Just in Time Access
+Just in Time Access provides the ability to lock down inbound traffic to VMs, reducing the overall exposure to attacks while providing easy access to connect when needed.
+
+After enabling JIT, you can select the ports to block inbound traffic on. Microsoft Defender for Cloud ensures "deny all inbound traffic" rules exist for the selected ports in the NSG and Azure Firewall rules, which restrict access to your Azure VMs' management ports and defend them from attacks.
+
+Note: If other rules exist for these ports, those rules take priority over the new "deny all inbound traffic" rules, otherwise, the new rules take priority in the NSG & Azure Firewall.
+
+### How JIT Access Works
+When a user requests to access a VM, Defender for Cloud checks that the user has Azure RBAC permissions for the specific VM. 
+- If the request is approved, Defender for Cloud configures the NSGs and Azure Firewall to allow inbound traffic to the selected ports from the relevant IP address, or range, for the specified amount of time. 
+- Once the time expires, Defender for Cloud restores the NSGs to their previous states.
+
+Note: Connections that are already established are NOT interrupted.
+
+JIT requires Microsoft Defender for servers to be enabled on the subscription.
 
 
 ## Describe ways Azure encrypts data
