@@ -19,6 +19,25 @@ CSPM: Cloud Security Posture Management
 
 - Free tier includes CSPM features such as secure score, detection of security misconfigurations in your Azure workloads, and asset inventory. 
 
+CSPM uses a combination of tools & services:
+Zero Trust-based access control
+- Considers the active threat level when determining access control.
+
+Real-time risk scoring
+- Provides visibility to the top risks
+
+Threat & vulnerability management (TVM)
+- Provides a full picture of an orgs attack surface & risk while integrating it into operations & engineering decision-making.
+
+Discover risks
+- Provides an understanding of the data exposure of enterprise IP, on sanctioned & unsanctioned cloud services.
+
+Technical policy
+- Applies guardrails to audit & enforce the org's standards and applies policies to technical systems.
+
+Threat modeling systems & architectures
+- Used alongside other applications.
+
 CWPP: Cloud Workload Protection Platform
 
 - Brings a range of security features for advanced, intelligent, protection of your Azure & hybrid resources & workloads. 
