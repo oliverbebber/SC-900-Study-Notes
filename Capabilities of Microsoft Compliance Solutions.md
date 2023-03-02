@@ -80,6 +80,11 @@ Web Application Firewall (WAF) provides centralized protection of web apps from 
 - Allows patching known vulnerabilities in one place, instead of having to secure each individal web app.
 - Provides application admins better assurance of protection against threats & intrusions.
 
+WAF on Application Gateway is based on Core Rule Set (CRS) 3.1, 3.0, or 2.2.9 from the Open Web Application Security Project (OWASP).
+
+The WAF **automatically updates** to include protection against new vulnerabilities, without requiring additional configuration.
+- WAF can protect against common attacks such as SQL injection & XSS.
+
 
 ## Describe Network Segmentation with Azure Virtual Networks
 Network segmentation supports the zero trust model & defense in depth.
