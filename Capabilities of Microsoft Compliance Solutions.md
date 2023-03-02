@@ -63,14 +63,14 @@ Defender for Cloud is a tool for security posture management & threat protection
 - Defend: detect & resolve threats to resources, workloads, and services.
 
 The features that deliver these requirements, cover two broad pillars of cloud security:
-Cloud Security Posture Management
+### Cloud Security Posture Management
 - CSPM in Microsoft Defender provides:
 - Visibility: helps you understand the current security situation.
 - Hardening guidance: helps you efficiently & effectively improve your security.
 
 ![Alt text](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-management-capabilities-of-azure/media/3-security-center-recommendations.png)
 
-Cloud Workload Protection (CWP)
+### Cloud Workload Protection (CWP)
 Microsoft Defender for Cloud is able to detect & resolve threats to resources, workloads, and services. Protections are delivered through integrated Defender plans, specific to the type of resources in an org's subscriptions and provides enhanced security features for the workloads.
 
 ## Describe the enhanced security features of Microsoft Defender for Cloud
@@ -79,6 +79,30 @@ Microsoft Defender for Cloud is able to detect & resolve threats to resources, w
 Security baselines are standardized documents for Azure product offerings, describing the available security capabilities and the optimal security configurations to help you strengthen security through improved tooling, tracking, and security features. 
 
 Security baselines for Azure focus on cloud-centric control areas in Azure environments. These controls are consistent with well-known industry standards such as: Center for Internet Security (CIS) or National Institute for Standards in Technology (NIST).
+
+NOTE: Microsoft cloud security benchmark is the successor of Azure Security Benchmark (ASB), which was rebranded in October 2022. It's currently in preview.
+
+### Microsoft Cloud Security Benchmark
+This feature provides best practices and recommendations to help improve the security of workloads, data, and services in Azure and multicloud environments. Using security benchmarks can help orgs secure cloud deployments & reduce risk in the org in a timely manner.
+
+The best way to understand the Microsoft Cloud Security Benchmark is to view it on GitHub [https://github.com/MicrosoftDocs/SecurityBenchmarks/blob/master/Azure%20Security%20Benchmark/Microsoft_cloud_security_benchmark_v1_preview.xlsx](https://github.com/MicrosoftDocs/SecurityBenchmarks)
+
+Important pieces of the information in MCSB v1 are:
+- ID
+- Control domain
+- Mapping to industry frameworks
+- Recommendation
+- Security principle
+- Azure Guidance
+- AWS Guidance
+
+Microsoft Defender for Cloud continuously assesses an org's hybrid cloud environment to analyze the risk factors according to the best practices in the MCSB. Some of the controls used in the benchmark include:
+- Network Security
+- Identity & Access Control
+- Data Protection
+- Data Recovery
+- Incident Response
+
 
 # Describe security capabilities of Microsoft Sentinel
 ## Define the concepts of SIEM and SOAR
