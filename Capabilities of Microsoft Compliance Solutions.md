@@ -11,6 +11,12 @@
 
 ## Describe Azure Bastion and JIT Access
 ### Azure Bastion
+Azure Bastion is a service you deploy that allows you to connect to VMs using your browser and the Azure portal. It's a fully platform-managed PaaS service that you provision inside your virtual network. 
+- Provides secure & seamless RDP & SSH connectivity using TLS.
+- VMs don't need a public IP address or special client software.
+
+![Alt text](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/2-azure-bastion.png)
+
 Azure Bastion is deployed per virtual network, with support for virtual network peering.
 
 
