@@ -94,8 +94,13 @@ Action types (& action subcategory)
 
 # Describe information protection and data lifecycle management capabilities of Microsoft Purview
 ## Describe data classification capabilities
+- Sensitive information types
+- Trainable classifiers: Pre-trained classifiers & custom trainable classifiers
+- Understand & explore the data
 
 ## Describe the benefits of content explorer and activity explorer
+- The content explorer enables admins to gain visibility into the content that has been summarized in the overview pane
+- The activity explorter monitors what's being done with labeled content across the org
 
 ## Describe sensitivity labels
 
