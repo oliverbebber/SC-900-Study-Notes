@@ -181,6 +181,35 @@ Communication compliance helps minimize communication risks by helping you detec
 Information barriers allow you to restrict communication & collaboration between two internal groups to avoid a conflict of interest from occurring in the org. Supports services are Microsoft Teams, OneDrive for Business, SharePoint Online, and more.
 
 
+# Describe eDiscovery & Audit capabilities in Microsoft Purview
+## Describe the eDiscovery capabilities of Microsoft Purview
+Electronic discovery is the process of identifying & delivering electronic information that can be used as evidence in legal cases.
+
+### eDiscovery tools
+Content search
+- Search for content
+- Keyword queries & search conditions
+- Export search results
+- Role-based permissions
+
+eDiscovery (Standard)
+- Search & export
+- Case management
+- Legal hold
+
+eDiscovery (Premium)
+- Custodian management
+- Legal hold notifications
+- Advanced indexing
+- Review set filtering
+- Tagging
+- Analytics
+- Predictive coding models
+- and more
+
+## Describe the auditing capabilities of Microsoft Purview
+
+
 # Describe resource governance capabilities in Azure
 ## Describe Azure Policy
 
