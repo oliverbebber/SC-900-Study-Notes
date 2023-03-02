@@ -1,5 +1,22 @@
 # Describe basic security capabilities in Azure
 ## Describe Azure DDoS protection
+### What is a DDoS Attack? 
+Distributed Denial of Service Attacks
+The goal of a DDoS attack is to overwhelm the resources on apps and servers, making them unresponsive or slow for legitimate users. These attacks usually target any public-facing device that can be access through the internet.
+
+Volumetric attacks
+- These are volume-based attacks that flood the network with traffic that appears legitimate but overwhelms the available bandwidth. 
+- Legit traffic cannot get through when these attacks occur.
+- Measured in bits per second.
+
+Protocol attacks
+- These attacks render a target inaccessible by exhausting server resources with fake protocol requests that exploit weaknesses in layer 3 (network) and layer 4 (transport) protocols.
+- Measured in packets per second.
+
+Resource (application) layer attacks
+- These attacks target web app packets with the purpose of distrupting transmission of data between hosts.
+
+
 
 ## Describe Azure Firewall
 
