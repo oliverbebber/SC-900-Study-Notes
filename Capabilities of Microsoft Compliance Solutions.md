@@ -139,16 +139,17 @@ JIT requires Microsoft Defender for servers to be enabled on the subscription.
 
 ## Describe ways Azure encrypts data
 Azure Storage Service Encryption
-- Helps to protect data at rest.
+- **Encrypted by default.**
+- Helps to protect data **at rest**.
 - Automatically encrypts the data before persisting to Azure-managed disks, Azure Blob Storage, Azure Files, or Azure Queue Storage.
 - Decrypts the data before retrieval.
 
 Azure Disk Encryption
 - Helps encrypt Windows & Linux IaaS VM disks.
-- Uses industry-standard BitLocker feature of Windows & dm-crypt feature of Linux to provide volume encryption for the OS & data disks.
+- Uses industry-standard **BitLocker** feature of Windows & **dm-crypt** feature of Linux to provide volume encryption for the **OS & data disks**.
 
 Transparent Data Encryption (TDE)
-- Helps protect Azure SQL Database & Azure Data Warehouse against the threat of malicious activity.
+- Helps protect **Azure SQL Database & Azure Data Warehouse** against the threat of malicious activity.
 - Performs real-time encryption & decryption of the database, backups, and transaction log files at rest without requiring changes to the application.
 
 ### Azure Key Vault
