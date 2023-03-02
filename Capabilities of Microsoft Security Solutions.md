@@ -56,11 +56,23 @@ Navigation:
 
 
 ## Describe compliance manager
+Compliance Manager simplifies compliance and reduces risk by providing:
+- Prebuilt assessments based on common standards.
+- Workflow capabilities to complete risk assessments.
+- Setp-by-step improvement actions.
+- Compliance score, shows overall compliance posture.
 
-- Measures your progress in completing actions that help reduce risks around data protection and regulatory standards. 
-- Includes hundreds of baselines for regulatory standards called "assessment templates". 
+Purview assists with
+- Measuring your progress in completing actions that help reduce risks around data protection and regulatory standards. 
+- Provides hundreds of baselines for regulatory standards called "assessment templates". 
 - GDPR, HIPAA, FINRA, NIST 800-53, and more. 
 - https://compliance.microsoft.com/compliancemanager
+
+### Key elements of Compliance Manager
+- Controls
+- Assessmenets
+- Templates
+- Improvement actions
 
 ## Describe the use and benefits of compliance score
 
