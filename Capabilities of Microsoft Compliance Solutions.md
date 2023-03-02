@@ -25,6 +25,14 @@ Transparent Data Encryption (TDE)
 - Helps protect Azure SQL Database & Azure Data Warehouse against the threat of malicious activity.
 - Performs real-time encryption & decryption of the database, backups, and transaction log files at rest without requiring changes to the application.
 
+### Azure Key Vault
+A centralized cloud service for storing application secrets. 
+- Secrets management: securely store and control access to tokens, passwords, certificates, API keys, and other secrets.
+- Key management: allows for easier management of encryption keys.
+- Certificate management: Key Vault lets you provision, manage, and deploy public & private SSL/TLS certificates for Azure and internally connected resources more easily.
+- Store secrets backed by hardware security modules (HSMs): secrets and keys can be protected by software of FIPS 140-2 Level 2 validated HSMs.
+
+
 # Describe security management capabilities of Azure
 ## Describe Cloud security posture management (CSPM)
 CSPM: Cloud Security Posture Management
