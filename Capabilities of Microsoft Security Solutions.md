@@ -128,6 +128,16 @@ Once a sensitivity label is applied to an email or document, any configured prot
 
 
 ## Describe Data Loss Prevention (DLP)
+DLP protects sensitive information & prevents its inadvertent disclosure
+- DLP policies protect information by identifying & automatically protecting sensitive data
+- Protect sensitive information across M365 - OneDrive for Business, SharePoing Online, Exchange Online & Microsoft Teams
+
+### Endpoint Data Loss Prevention
+- DLP extended to Windows 10 devices
+- Audit & manage activities, including creating, copying, printing, and renaming items
+
+### Data Loss Prevent in Microsoft Teams
+- DLP capabilities extended to Microsoft Teams chat & channel messages
 
 ## Describe Records Management
 
