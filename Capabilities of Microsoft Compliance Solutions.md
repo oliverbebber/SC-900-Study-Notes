@@ -82,6 +82,18 @@ Web Application Firewall (WAF) provides centralized protection of web apps from 
 
 
 ## Describe Network Segmentation with Azure Virtual Networks
+Network segmentation supports the zero trust model & defense in depth.
+- Assume breach is a principle of the zero trust model. Having the ability to contain an attacker is crucial to protect information systems.
+
+Network segmentation helps with
+- Providing a way to group related assets that are part of, or support, workload operations.
+- Isolating resources.
+- Setting governance policies.
+
+Placing workloads, or parts of a specific workload, allows you to control traffic from/to those segements to secure communication paths. If one segement is compromised, you'll be able to prevent lateral movement from allowing the compromise to affect the rest of the network.
+
+Network segmentation can also secure interactions between perimeters. This can strengthen an org's security posture, contain risks when a breach occurs, and prevent attackers from gaining access to the entire workload.
+
 
 ## Describe Azure Network Security groups
 
