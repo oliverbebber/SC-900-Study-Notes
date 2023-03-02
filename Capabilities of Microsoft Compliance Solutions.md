@@ -17,7 +17,7 @@
 ## Describe Cloud security posture management (CSPM)
 CSPM: Cloud Security Posture Management
 
-- Free tier includes CSPM features such as secure score, detection of security misconfigurations in your Azure workloads, and asset inventory. 
+- Free tier includes CSPM features such as secure score, detection of security misconfigurations in your Azure workloads, and asset inventory.
 
 CSPM uses a combination of tools & services:
 Zero Trust-based access control
@@ -56,6 +56,22 @@ Protects the following workloads:
 - Open-source Azure DB
 
 ## Describe Microsoft Defender for Cloud
+Defender for Cloud is a tool for security posture management & threat protection. It strengthens the security posture of cloud resources and protects workloads running in Azure, hybrid, and other cloud platforms.
+
+- Continuously assess: know your security posture, identify & track vulnerabilities.
+- Secure: harden all connected resources & services.
+- Defend: detect & resolve threats to resources, workloads, and services.
+
+The features that deliver these requirements, cover two broad pillars of cloud security:
+Cloud Security Posture Management
+- CSPM in Microsoft Defender provides:
+- Visibility: helps you understand the current security situation.
+- Hardening guidance: helps you efficiently & effectively improve your security.
+
+![Alt text](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-management-capabilities-of-azure/media/3-security-center-recommendations.png)
+
+Cloud Workload Protection (CWP)
+Microsoft Defender for Cloud is able to detect & resolve threats to resources, workloads, and services. Protections are delivered through integrated Defender plans, specific to the type of resources in an org's subscriptions and provides enhanced security features for the workloads.
 
 ## Describe the enhanced security features of Microsoft Defender for Cloud
 
