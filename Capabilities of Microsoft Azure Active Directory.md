@@ -122,3 +122,21 @@ PIM can reduce the chance of a malicious actor getting access by minimizing the 
 PIM can also provide insight about what users are doing with their admin privileges.
 
 ## Describe Azure AD Identity Protection
+Identity Protection is a feature of Azure AD Premium P2.
+
+Accomplishes three key tasks
+- Automate detection & remediation of identity-based risks
+- Investigate risks using data in the portal
+- Export risk detection data to third-party tools for additional analysis
+
+Sign-in risks that Azure Identity Protection can identify:
+- Anonymous IP address
+- Atypical travel
+- Malware linked IP address
+- Unfamiliar sign-in properties
+- Password spray
+- Azure AD threat intelligence
+
+User risks that Azure Identity Protection can identify:
+- Leaked credentials
+- Azure AD threat intelligence
